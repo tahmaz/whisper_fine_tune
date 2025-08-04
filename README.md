@@ -4,3 +4,4 @@ Fine tune whisper azerbaijani model with turkish data.
 
 [Gradio](whisper_fine_tune.ipynb)
 [Colab](whisper_fine_tune.ipynb)
+(whisper_fine_tune.ipynb)
